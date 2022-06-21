@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+nav {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    
+}
